@@ -17,7 +17,7 @@ function Home() {
        List of Posts
         </Link>
         <hr></hr> 
-      <h1>Place Holder API service</h1>
+      <h1>Place Holder API service with SSR</h1>
       <p>https://jsonplaceholder.typicode.com</p>
       <img src="/api.png"/>
     </>
