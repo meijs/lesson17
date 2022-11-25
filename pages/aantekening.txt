@@ -1,7 +1,3 @@
 samenvatting les 17 t/m 21
 
 
-static (site) generation = methode van pre-rendering waarbij de html pagina's opgebouwd at build time. Dit kan met of zonder externe data
-
-aan de client kan moet je in de page een getStaticProp function maken om de externe data op te halen van de server. de html, js en json worden dan gegenereerd !  
-
